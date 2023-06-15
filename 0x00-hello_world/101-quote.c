@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
+
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * Retutn: Always 1 (Success)
  */
