@@ -4,8 +4,9 @@
  *
  * Return: Always 0 (success)
  */
-int main (void){
-    int n;
+int main (void)
+{
+    int (n);
     printf("enter your number: ");
     scanf("%d", &n);
     if (n > 0)
