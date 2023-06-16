@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - the last digit
- * 
- * Return: Always 0 (Success)
+ * main - The last digit
+ *
+ * Return: Always 0 (Success).
  */
 int main(void)
 {
