@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
- * _puts_recursion - prints a given string
- * @s: the string to be printed
+ * _puts_recursion - print a string
+ * @s:string
+ * Return:void
  */
-
 void _puts_recursion(char *s)
 {
 	if (*s)
@@ -13,5 +12,8 @@ void _puts_recursion(char *s)
 		_puts_recursion(s + 1);
 	}
 	else
+	{
 		_putchar('\n');
+	}
+
 }
