@@ -123,5 +123,4 @@ int main(int argc, char **argv)
 	keygen[6] = '\0';
 	for (ch = 0; keygen[ch]; ch++)
 		printf("%c", keygen[ch]);
-	return (0);
-}
+	return (0)}
